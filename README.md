@@ -3,6 +3,8 @@ Tired of trying to make plans all through group chats?
 
 Now an app devoted towards making plans and keeping them!
 
+[Demo](https://youtu.be/tWXUGlUnLao)
+
 ## General Info
 This web based app allows users to sign-up and create an account with us. Our home page or feed gives a remarkably similar feel to that of Facebook and Instagram. Your events or plans are listed within your feed showing you all pertinent details such time, date, location, as well as a description if the event is public. This keeps everything nice and organized! As an added bonus there is also a chat feature for plans, so that your group chat's can stay random and irrelevant! 
 
